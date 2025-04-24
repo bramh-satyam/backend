@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fled2dare(Shubham Sherki)  
-- 👀 I’m interested in everything, literally everthing if it has some practical use or can be used practically I'm interested in it!
-- 🌱 I’m currently learning SystemC and preparing for interviews
+- 👀 I’m interested in everything, literally everthing if it has some practical use I'm interested in it!
+- 🌱 I’m currently working with Sandisk on Contract.
 - 💞️ I’m looking to collaborate on anything, just tell me what is needed to be done and I'll learn the stuff if I have no IDEA about it, 
 - 📫 How to reach me -> you can mail me on my gmail "shubhamsherki27111@gmail.com"
 - 😄 Pronouns: I'm a MAN
