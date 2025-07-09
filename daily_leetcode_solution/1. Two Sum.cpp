@@ -45,4 +45,9 @@ Follow Ups and learning
     then second iteration, remainder_logger.find(2) -> remainder_logger.end(), thus remainder_logger = {9 : 0, 6 : 1}
     then third iteration, remainder_logger.find(9) doesn't give .end() thus it would return {remainder_logger[num], index}
     which is {remainder_logger[9], 2} = {0, 2}
+
+** Learning **
+
+if I would have written "if (map[num])" and the case was like target  = 6 and nums = [3,3] then after first iteration it fails since the index is 0, because map[3] == 0, and if (0) is false. Thus it's is asked not to use this, instead 
+use "if (map.find(complement) != map.end())" , this takes care of this bug!
 */
