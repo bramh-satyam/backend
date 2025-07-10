@@ -37,6 +37,7 @@ public:
         }
 
         return true;
+        // Time: O(n), Space: O(1) — assuming lowercase only (fixed alphabet size)
     }
 };
 
